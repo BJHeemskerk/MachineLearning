@@ -5,6 +5,6 @@ Semester 3
 ADS & AI - Machine Learning
 
 Taken:
-- Isa: ADA boosting
-- Busse: SVM
-- Declan: Gradient boosting
+- Isa: Normale visualisaties
+- Busse: Tijdseries visualisaties
+- Declan: Opschonen dataset
