@@ -5,6 +5,6 @@ Semester 3
 ADS & AI - Machine Learning
 
 Taken:
-- Isa: Normale visualisaties
-- Busse: Tijdseries visualisaties
-- Declan: Opschonen dataset
+- Isa: SARIMA(X)
+- Busse: Hybride
+- Declan: Keuze timeseries model
